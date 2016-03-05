@@ -5,7 +5,7 @@
 
 #brand 
 {
-	color: #66ccff;
+	color: #ff66cc;
 	font-weight: 700;
 }
 
@@ -34,5 +34,5 @@ h2
 #main-content 
 {
 	height: 1000px;
-	background: #ddd;
+	background: #eee;
 }
